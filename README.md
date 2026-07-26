@@ -9,8 +9,16 @@ Some description for files:
 
 # DOSBox-X-PC98-x86_64 this is binary of DOSBOX-X based 2025-01-03 build with dependencies from Ubuntu 24.01
 
-# autoset.sh - the autosetup for AntiX 19.2-4.19-smp-kernel. For RAM based system.
-# config/i3status.conf - this is dotfiles for i3 - example given from known Nord theme
-# game.sh - autostart for Dosbox-x if u in usb-stick.
-# grub.cfg - personal use for Antix USB stick.
-# sources.sh - for installing .bashrc alieases and bash prompt line with commend source .bashrc
+# autoset.sh
+The autosetup for AntiX 19.2-4.19-smp-kernel. For RAM based system.
+# config/i3status.conf 
+This is dotfiles for i3 - example given from known Nord theme
+# game.sh 
+Autostart for Dosbox-x if u in usb-stick.
+# grub.cfg 
+Personal use for Antix USB stick.
+# sources.sh 
+For installing .bashrc aliases and bash prompt line with command 
+```bash
+source .bashrc
+```
