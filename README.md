@@ -7,7 +7,14 @@ How do you want.
 
 Some description for files:
 
-# DOSBox-X-PC98-x86_64 this is binary of DOSBOX-X based 2025-01-03 build with dependencies from Ubuntu 24.01
+# DOSBox-X-PC98-x86_64
+This is binary of DOSBOX-X based 2025-01-03 build with dependencies from Ubuntu 24.01
+How to start it?
+
+```bash
+chmod +x;
+```
+And start using `./` for starting any scripts in `bash` shell.
 
 # autoset.sh
 The autosetup for AntiX 19.2-4.19-smp-kernel. For RAM based system.
