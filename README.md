@@ -11,8 +11,15 @@ Some description for files:
 
 # autoset.sh
 The autosetup for AntiX 19.2-4.19-smp-kernel. For RAM based system.
+How to use?
+For my daily driver i do next:
+```bash
+sudo mkdir /mnt/usb0; sudo mount /dev/sda1 /mnt/usb0; cd /mnt/usb0/Live-usb-storage/demo; ./autoset.sh
+```
+That is main command that i enter when i loading `toram`.
+
 # config/i3status.conf 
-This is dotfiles for i3 - example given from known Nord theme
+This is dotfiles for i3 - example given from known Nord theme - change only variables - this be easier.
 # game.sh 
 Autostart for Dosbox-x if u in usb-stick.
 # grub.cfg 
