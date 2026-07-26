@@ -1,0 +1,12 @@
+# Внимание - этот файл является кастомными зеркалами Debian Buster для архивных целей!
+# Все дальнейшие изменения для того что бы эта залупа работала - БУДУТ ТОЛЬКО ЗДЕСЬ.
+
+# Debian archive mirrors
+deb http://archive.debian.org/debian buster main contrib non-free
+deb http://archive.debian.org/debian buster-updates main contrib non-free
+deb http://archive.debian.org/debian-security buster/updates main contrib non-free
+
+# Бэкпорты Debian
+deb https://archive.debian.org/debian/ buster-backports main contrib non-free
+
+# Другие репозитории которые являются ПОЛЬЗОВАТЕЛЬСКИМИ ДОБАВЛЯТЬ ПОСЛЕ ЭТОГО КОММЕНТА! <-
