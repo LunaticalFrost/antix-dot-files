@@ -29,3 +29,21 @@ For installing .bashrc aliases and bash prompt line with command
 ```bash
 source .bashrc
 ```
+# debian-unified.list
+This is list of repos of archived Debian Buster that used in this case. In `autoset.sh` we obtain `archive-keyrings` for deleting `jessie-gpg` keys.
+If you plaining use it for own purposes - go for it - don't forget for `autoset.sh` - you can open it in any text editor or look here - and get commands for re-check repos of
+backports releases.
+
+# .bashrc
+The main driver of terminal. 
+How to use it?
+
+You just need copy that into your $HOME folder or `~/` folder.
+And enter next:
+```
+source ~/.bashrc
+```
+Or you can put the full way:
+```
+source /home/demo/.bashrc
+```
