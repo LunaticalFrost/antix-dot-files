@@ -8,14 +8,16 @@ How do you want.
 Some description for files:
 
 # DOSBox-X-PC98-x86_64
-This is binary of DOSBOX-X based 2025-01-03 build with dependencies from Ubuntu 24.01
-How to start it? You extract it in any directory and `cd` to it. Then:
+This is binary of DOSBOX-X based 2025-01-03 build with dependencies from Ubuntu 24.01. This binary fully isolated and run in any modern linux kernel. 
+All inside of AppImage file.
+How to start it? You should extract it in any directory you want and `cd` into it. 
+Then you do next:
 
 ```bash
 chmod +x DOSBox-X-PC98-x86_64.AppImage
 ```
-And start using `./` for starting any scripts in `bash` shell.
-
+And start it using `./` for starting any scripts in `bash` shell.
+In `game.sh` your `stderr` is fully disabled and gived under you.
 # autoset.sh
 The autosetup for AntiX 19.2-4.19-smp-kernel. For RAM based system.
 How to use?
