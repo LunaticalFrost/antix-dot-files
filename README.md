@@ -9,10 +9,10 @@ Some description for files:
 
 # DOSBox-X-PC98-x86_64
 This is binary of DOSBOX-X based 2025-01-03 build with dependencies from Ubuntu 24.01
-How to start it?
+How to start it? You extract it in any directory and `cd` to it. Then:
 
 ```bash
-chmod +x;
+chmod +x DOSBox-X-PC98-x86_64.AppImage
 ```
 And start using `./` for starting any scripts in `bash` shell.
 
