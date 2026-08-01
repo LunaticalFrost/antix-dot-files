@@ -19,7 +19,7 @@ chmod +x DOSBox-X-PC98-x86_64.AppImage
 And start it using `./` for starting any scripts in `bash` shell.
 In `game.sh` your `stderr` is fully disabled and gived under you.
 # autoset.sh
-The autosetup for AntiX 19.2-4.19-smp-kernel. For RAM based system.
+The autosetup for AntiX 19.2-4.19.100-antix.1-amd64-smp. For RAM based system.
 How to use?
 For my daily driver i do next:
 ```bash
