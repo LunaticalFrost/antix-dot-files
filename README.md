@@ -23,9 +23,9 @@ The autosetup for AntiX 19.2-4.19.100-antix.1-amd64-smp. For RAM based system.
 How to use?
 For my daily driver i do next:
 ```bash
-sudo mkdir /mnt/usb0; sudo mount /dev/sda1 /mnt/usb0; cd /mnt/usb0/Live-usb-storage/demo; ./autoset.sh
+sudo mkdir /mnt/usb0; sudo mount /dev/sda1 /mnt/usb0; cd /mnt/usb0/Live-usb-storage/demo; ./autoset.sh; ./sources.sh; exit
 ```
-That is main command that i enter when i loading `toram`.
+That is main command that i enter when i loading `toram`. Can be executed on 'tty' or any 'terminal' windows.
 
 # config/i3status.conf 
 This is dotfiles for i3 - example given from known Nord theme - change only variables - this be easier.
