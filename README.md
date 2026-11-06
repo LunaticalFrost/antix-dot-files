@@ -10,7 +10,7 @@ Some description for files:
 # DOSBox-X-PC98-x86_64
 This is binary of DOSBOX-X based 2025-01-03 build with dependencies from Ubuntu 24.01. This binary fully isolated and run in any modern linux kernel. 
 All inside of AppImage file.
-How to start it? You should extract it in any directory you want and `cd` into it. 
+How to start it? You should extract it in any directory you want and `cd` into it. But firstly to run this command - ensure if it already executable (i lame)
 Then you do next:
 
 ```bash
